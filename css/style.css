@@ -1,0 +1,88 @@
+/*GENERAL*/
+
+#cabecera {
+	margin-left: 25%; 
+	height: 80%; 
+	width: 50%;
+}
+
+
+.active {
+	color: red;
+}
+
+body {
+	background-image: url("img/fondo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+/*PARA INDEX.HTML*/
+/*#presentacion {
+	font-family: Helvetica;
+	font-size: 18pt;
+	color: white;
+	width: 30%; 
+	height: 40%;
+	float: left;
+	margin-left: 7%;
+	margin-top: 5%;
+	text-align: justify;
+
+}*/
+
+#cartel {
+	width: 105%;
+	border-radius: 5pt;
+}
+
+
+/*PARA PONENTES.HTML*/
+.ponentes {
+	min-height: 200px;
+	
+	/*font-family: Helvetica;
+	font-size: 16pt;
+	color: white;
+	padding-top: 10%;
+	width: 60%;
+	height:100px;*/
+}
+
+.descripcion {
+	text-align: justify;
+	font-family: Helvetica;
+	font-size: 14pt;
+	color: white;
+	float: left;
+	width: 30%;
+	height: 80%;
+	margin-left: 25%
+}
+
+.imagen {
+	border: 1pt solid green;
+	width: 30%;
+	background-color: white;
+	border-radius: 70pt;
+
+}
+
+/*PARA SITIO.HTML*/
+
+
+
+/*PARA CONTACTO.HTML*/
+
+
+.asosis {
+	margin-top: 1%;
+	width: 50%;
+	border-radius: 100pt;
+}
